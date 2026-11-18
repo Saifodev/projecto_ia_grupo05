@@ -1,0 +1,146 @@
+{
+ "dimensoes": [
+  20,
+  20,
+  5
+ ],
+ "base": [
+  1,
+  4
+ ],
+ "estacoes": [
+  [
+   5,
+   7
+  ],
+  [
+   7,
+   16
+  ]
+ ],
+ "vento": "E",
+ "parcelas": [
+  {
+   "x": 1,
+   "y": 3,
+   "litros": 3
+  },
+  {
+   "x": 18,
+   "y": 10,
+   "litros": 3
+  },
+  {
+   "x": 18,
+   "y": 18,
+   "litros": 4
+  },
+  {
+   "x": 6,
+   "y": 15,
+   "litros": 4
+  },
+  {
+   "x": 14,
+   "y": 7,
+   "litros": 2
+  },
+  {
+   "x": 13,
+   "y": 6,
+   "litros": 4
+  }
+ ],
+ "proibidas": [
+  {
+   "nome": "linha_alta_tensao",
+   "x": [
+    0,
+    4
+   ],
+   "y": [
+    12,
+    12
+   ]
+  },
+  {
+   "nome": "linha_alta_tensao",
+   "x": [
+    7,
+    19
+   ],
+   "y": [
+    12,
+    12
+   ]
+  },
+  {
+   "nome": "aldeia",
+   "x": [
+    12,
+    15
+   ],
+   "y": [
+    15,
+    17
+   ]
+  }
+ ],
+ "relevo": [
+  {
+   "x": [
+    14,
+    15
+   ],
+   "y": [
+    12,
+    14
+   ],
+   "altura": 2
+  },
+  {
+   "x": [
+    8,
+    10
+   ],
+   "y": [
+    7,
+    10
+   ],
+   "altura": 2
+  },
+  {
+   "x": [
+    17,
+    19
+   ],
+   "y": [
+    6,
+    8
+   ],
+   "altura": 4
+  },
+  {
+   "x": [
+    7,
+    10
+   ],
+   "y": [
+    2,
+    5
+   ],
+   "altura": 3
+  }
+ ],
+ "bateria": 100,
+ "tanque": 10,
+ "delta_bateria": 0.25,
+ "nome": "grande_03",
+ "nivel": "grande",
+ "indice": 3,
+ "semente": 202605,
+ "tentativas": 1,
+ "d_ref": 166,
+ "n_posicoes": 1734,
+ "limite_estados": 489515136
+}

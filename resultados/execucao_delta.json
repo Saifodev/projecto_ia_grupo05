@@ -1,0 +1,20 @@
+{
+ "data": "2026-11-18T13:48:33",
+ "commit": "4dd736179df4a22975570b90eddcfa67cf80c0cb",
+ "alteracoes_por_commitar": true,
+ "python": "3.14.7",
+ "semente": 202605,
+ "limite_tempo_s": 60.0,
+ "limite_memoria_mb": 2048,
+ "argumentos": {
+  "niveis": [
+   "base",
+   "pequena",
+   "media",
+   "grande"
+  ],
+  "estudo_delta": true,
+  "estudo_vento": false,
+  "graficos": false
+ }
+}

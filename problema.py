@@ -1,4 +1,4 @@
-"""Classe abstracta Problema e estrutura No (secção 2.1 do enunciado)."""
+"""Classe abstracta Problema e estrutura No."""
 from __future__ import annotations
 
 from abc import ABC, abstractmethod

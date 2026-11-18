@@ -1,0 +1,88 @@
+{
+ "dimensoes": [
+  20,
+  20,
+  5
+ ],
+ "base": [
+  5,
+  19
+ ],
+ "estacoes": [
+  [
+   13,
+   3
+  ],
+  [
+   11,
+   7
+  ]
+ ],
+ "vento": "SE",
+ "parcelas": [
+  {
+   "x": 5,
+   "y": 18,
+   "litros": 3
+  }
+ ],
+ "proibidas": [
+  {
+   "nome": "linha_alta_tensao",
+   "x": [
+    2,
+    19
+   ],
+   "y": [
+    13,
+    13
+   ]
+  },
+  {
+   "nome": "aldeia",
+   "x": [
+    1,
+    3
+   ],
+   "y": [
+    1,
+    4
+   ]
+  }
+ ],
+ "relevo": [
+  {
+   "x": [
+    16,
+    17
+   ],
+   "y": [
+    4,
+    6
+   ],
+   "altura": 2
+  },
+  {
+   "x": [
+    0,
+    2
+   ],
+   "y": [
+    0,
+    2
+   ],
+   "altura": 2
+  }
+ ],
+ "bateria": 100,
+ "tanque": 10,
+ "delta_bateria": 0.25,
+ "nome": "pequena_07",
+ "nivel": "pequena",
+ "indice": 7,
+ "semente": 202605,
+ "tentativas": 1,
+ "d_ref": 3,
+ "n_posicoes": 1828,
+ "limite_estados": 16126616
+}

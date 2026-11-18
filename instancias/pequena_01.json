@@ -1,0 +1,93 @@
+{
+ "dimensoes": [
+  20,
+  20,
+  5
+ ],
+ "base": [
+  8,
+  13
+ ],
+ "estacoes": [
+  [
+   8,
+   16
+  ],
+  [
+   0,
+   14
+  ]
+ ],
+ "vento": "NE",
+ "parcelas": [
+  {
+   "x": 7,
+   "y": 13,
+   "litros": 2
+  },
+  {
+   "x": 9,
+   "y": 13,
+   "litros": 4
+  }
+ ],
+ "proibidas": [
+  {
+   "nome": "linha_alta_tensao",
+   "x": [
+    0,
+    14
+   ],
+   "y": [
+    12,
+    12
+   ]
+  },
+  {
+   "nome": "linha_alta_tensao",
+   "x": [
+    17,
+    19
+   ],
+   "y": [
+    12,
+    12
+   ]
+  },
+  {
+   "nome": "aldeia",
+   "x": [
+    3,
+    4
+   ],
+   "y": [
+    14,
+    15
+   ]
+  }
+ ],
+ "relevo": [
+  {
+   "x": [
+    17,
+    20
+   ],
+   "y": [
+    0,
+    1
+   ],
+   "altura": 2
+  }
+ ],
+ "bateria": 100,
+ "tanque": 10,
+ "delta_bateria": 0.25,
+ "nome": "pequena_01",
+ "nivel": "pequena",
+ "indice": 1,
+ "semente": 202605,
+ "tentativas": 1,
+ "d_ref": 8,
+ "n_posicoes": 1878,
+ "limite_estados": 33135432
+}

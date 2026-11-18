@@ -4,3 +4,13 @@ __pycache__/
 .pytest_cache/
 .idea/
 .vscode/
+
+# Material, análise e instruções de IA: ficam só na máquina local
+material da disciplina/
+notas/
+docs/
+skills/
+AGENTS.md
+CLAUDE.md
+README-INSTRUCOES.md
+.claude/

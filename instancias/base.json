@@ -1,0 +1,29 @@
+{
+ "nome": "base",
+ "nivel": "base",
+ "origem": "Instância criada pelo Grupo 05. Não foi fornecida pelo docente.",
+ "dimensoes": [20, 20, 5],
+ "base": [2, 2],
+ "estacoes": [[17, 2], [0, 19]],
+ "vento": "E",
+ "parcelas": [
+  {"x": 2, "y": 10, "litros": 2},
+  {"x": 2, "y": 18, "litros": 2},
+  {"x": 8, "y": 17, "litros": 2},
+  {"x": 18, "y": 18, "litros": 2},
+  {"x": 18, "y": 9, "litros": 2},
+  {"x": 5, "y": 5, "litros": 4}
+ ],
+ "proibidas": [
+  {"nome": "linha_alta_tensao", "x": [10, 10], "y": [4, 19]},
+  {"nome": "aldeia", "x": [3, 8], "y": [12, 13]}
+ ],
+ "relevo": [
+  {"nome": "passagem sob a linha", "x": [9, 11], "y": [0, 3], "altura": 4},
+  {"nome": "cumeeira a leste", "x": [16, 19], "y": [13, 15], "altura": 3},
+  {"nome": "morro a oeste", "x": [0, 1], "y": [14, 16], "altura": 4}
+ ],
+ "bateria": 100,
+ "tanque": 10,
+ "delta_bateria": 0.25
+}
